@@ -1,0 +1,42 @@
+/*!
+ * frames.css
+ *
+ * @modified 2013/05/12
+ *
+ */
+
+.frame-body {
+	width: 900px;
+	margin: 0 auto;
+}
+
+.frame-header {
+	margin-bottom: 10px;
+	padding: 10px;
+	background: green;
+}
+
+.frame-footer {
+	padding: 10px;
+	background: green;
+}
+
+.frame-contents {
+	margin-bottom: 10px;
+	overflow: hidden;
+	_zoom: 1;
+}
+
+.frame-contents-sub {
+	width: 270px;
+	padding: 10px;
+	float: right;
+	background: green;
+}
+
+.frame-contents-main {
+	width: 580px;
+	padding: 10px;
+	float: left;
+	background: green;
+}
